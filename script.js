@@ -1,7 +1,7 @@
 const products = [
-  { id: 1, name: "Kaos Polos", price: 50000 },
-  { id: 2, name: "Celana Jeans", price: 150000 },
-  { id: 3, name: "Topi Keren", price: 40000 },
+  { id: 1, name: "Cara Menjadi Kaya Modal Ai", price: 100000 },
+  { id: 2, name: "Tutorial Memakai Ai", price: 150000 },
+  { id: 3, name: "Preset Lightroom Lengkap", price: 200000 },
 ];
 
 let cartCount = 0;
